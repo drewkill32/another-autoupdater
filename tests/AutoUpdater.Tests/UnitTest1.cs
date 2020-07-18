@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace auto_updater.tests
+namespace AutoUpdater.tests
 {
     public class UnitTest1
     {

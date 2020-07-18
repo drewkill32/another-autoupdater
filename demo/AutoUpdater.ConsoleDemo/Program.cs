@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace auto_updater_console_demo
+namespace AutoUpdater.ConsoleDemo
 {
     class Program
     {
